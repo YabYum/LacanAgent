@@ -1,8 +1,9 @@
 from openai import OpenAI
 
+# adding you ChatGPT API
 client = OpenAI(
-    base_url="https://oneapi.xty.app/v1",
-    api_key="sk-ykouqpo2aV9puc2xEe70Fc6a9c564321A279732507D992D8"
+    base_url="",
+    api_key=""
 )
 
 
